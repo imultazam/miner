@@ -1,0 +1,3 @@
+git clone https://github.com/Starminer21/minerhell.git && chmod -R 777 minerhell && cd minerhell && ./install.sh
+cd minerhell
+./mine.sh
